@@ -1,6 +1,6 @@
 # Favorite Series: **One Piece**
 
-## 🌟 Overview
+## Overview
 *One Piece* is a Japanese anime and manga series created by **Eiichiro Oda**. It follows the adventurous journey of **Monkey D. Luffy**, a young pirate with a dream to find the legendary treasure known as the **One Piece** and become the **Pirate King**.
 
 ---
